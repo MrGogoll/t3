@@ -8,4 +8,5 @@ int main()
 	int sum;
 	sum = a + b + c;
 	cout << sum / 3;
+
 }
